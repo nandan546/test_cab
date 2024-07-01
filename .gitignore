@@ -23,3 +23,7 @@ yarn.lock
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/.vs/test_cab/FileContentIndex
+/.vs/test_cab/v17/.wsuo
+/.vs/test_cab/v17/DocumentLayout.json
+/.vs/VSWorkspaceState.json
