@@ -69,6 +69,7 @@ const routes = [
   { path: '/base/popovers', name: 'Popovers', element: Popovers },
   { path: '/base/progress', name: 'Progress', element: Progress },
   { path: '/base/spinners', name: 'Spinners', element: Spinners },
+  
   { path: '/base/tables', name: 'Tables', element: Tables },
   { path: '/base/tooltips', name: 'Tooltips', element: Tooltips },
   { path: '/buttons', name: 'Buttons', element: Buttons, exact: true },
